@@ -1,2 +1,2 @@
 # GitSubmodule
-Test
+This is readme of submodule project.
